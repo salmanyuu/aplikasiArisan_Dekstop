@@ -9,3 +9,14 @@ jika ingin menghapus data pada tabel tinggal klik salah satu data pada tabel, la
 untuk opsi "bayar" penggunaannya hampir sama dengan mengubah tetapi ini hanya untuk mengubah data Status Bayar.
 untuk Kocok arisan cukup klik buttonya, lalu nanti akan dipilih secara random yang 'belum menang' dan akan diberi tanda dengan background
 warna hijau, jika yang sudah menang tidak bisa mengikut kococ arisan lagi.
+
+
+
+
+
+
+
+
+##### Salman Ahmad Fauzi
+##### XII - RPL 2
+##### SMKN 4 Bandung
